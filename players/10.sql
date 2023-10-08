@@ -1,1 +1,0 @@
-SELECT first_name,last_name AS "Southpaw" FROM players WHERE bats == "L" AND throws == "R" ORDER BY first_name DESC,last_name DESC;

@@ -1,1 +1,0 @@
-SELECT english_title AS "ART_NAME" FROM views WHERE artist == "Hokusai" ORDER BY english_title;

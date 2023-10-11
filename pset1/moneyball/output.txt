@@ -1,0 +1,9 @@
++------------+-------------------+
+| total hits |       name        |
++------------+-------------------+
+| 1663       | Colorado Rockies  |
+| 1637       | Seattle Mariners  |
+| 1566       | Texas Rangers     |
+| 1559       | Cleveland Indians |
+| 1514       | Minnesota Twins   |
++------------+-------------------+
